@@ -3,4 +3,6 @@
 
     <dimen name="margin_normal">16dp</dimen>
     <dimen name="margin_small">8dp</dimen>
+    <dimen name="page_margin">20dp</dimen>
+    <dimen name="page_padding">64dp</dimen>
 </resources>
